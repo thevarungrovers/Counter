@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+span{
+    font-size: 100px;
+}
+
+button{
+    display: inline-block;
+    font-size: 35px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.increase{
+    background-color: #3498db;
+    color: #fff;
+}
+
+.increase:hover{
+    background-color: #2980b9;
+}
+
+.decrease{
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+.decrease:hover{
+    background-color: #c0392b;
+
+}
+
+.reset{
+    background-color: #7ed6df;
+    color: #fff;
+}
+
+.reset:hover{
+    background-color: #22a6b3;
+}
